@@ -1,3 +1,6 @@
+Nama : Irwan April Liansah  
+NPM  : 2213020151  
+Kelas: 3A
 # love-calculator
 ## Ini adalah program sederhana kalkulator cinta yang menghitung persentase kecocokan nama anda dan pasangan anda. Just for fun gaeess!!
 **Cara Kerja Program:**
